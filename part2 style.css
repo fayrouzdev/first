@@ -1,0 +1,43 @@
+div{
+    background-color:lightgray;
+    color: blue;
+    text-align: left;
+}
+
+p{
+    color: blue;
+}
+
+h2{
+    color: cadetblue;
+}
+
+h3{
+    color: lightskyblue;
+}
+
+button{
+    border-radius: 65px;
+}
+
+
+.skillsBox{
+    background-color: white;
+    width: 200px;
+    height: 40px;
+    box-shadow: 10px 10px 10px lightgray;
+    border-radius: 30px;
+    text-align: center;
+    padding: 50px;
+}
+
+
+.SkillsSection{
+   
+    width: 100%;
+    padding-left: 40%;
+}
+
+.skillsHeading{
+    padding-left: 7%;
+}
